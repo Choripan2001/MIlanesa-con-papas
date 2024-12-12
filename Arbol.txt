@@ -1,0 +1,2 @@
+Nombre,Apellidos,Curso,1°BIM,2°BIM,3°BIM,4°BIM,Promedio,Código
+dsdsd,sdsd,algebra,20,10,11,11,13.0,dssd52
